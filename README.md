@@ -19,6 +19,9 @@ A simple image captioning system using a pre-trained CNN (InceptionV3) and LSTM 
 
 
 ### Dataset
+
+Flicker8K
+
 The dataset consists of images and corresponding captions:
 - **img_cap_dataset.zip**: Zip archive containing all images for captioning.
 - **captions.txt**: CSV file with two columns (`image`,`caption`), providing multiple human-annotated captions per image.
