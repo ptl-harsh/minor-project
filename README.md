@@ -1,4 +1,4 @@
-# PixelPhrase Project
+# Minor Project
 
 A simple image captioning system using a pre-trained CNN (InceptionV3) and LSTM decoder.
 
